@@ -9,7 +9,7 @@ const variables = {
   quotes: [
     { quote: "Selamat Hari Raya Idul Fitri, 1 Syawal 1441 H", author: "ariqoh" },
     { quote: "Minal Aidzin Walfaizin, Mohon Maaf Lahir Dan Batin", author: "ariqoh" },
-    { quote: "Saya Ariqoh Meminta Maaf Atas Kesalahan Perilaku Atau Ucapan Saya🙏", author: "ariqou" },
+    { quote: "Saya Ariqoh Meminta Maaf Atas Kesalahan Perilaku Atau Ucapan Saya🙏", author: "ariqoh" },
     { quote: "Selamat Hari Raya Idul Fitri 1 Syawal 1441 H", author: "ariqoh" },
     { quote: "Love chuuu🤗❤", author: "ariqoh" },
   ],
