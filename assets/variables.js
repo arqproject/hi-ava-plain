@@ -13,7 +13,7 @@ const variables = {
     { quote: "Selamat Hari Raya Idul Fitri 1 Syawal 1441 H", author: "ariqoh" },
     { quote: "Love chuuu🤗❤", author: "ariqoh" },
   ],
-  nicknames: ["❤", "❤", "❤", "🤗", "🤗❤", "🤗❤"],
+  nicknames: ["🤗", "🤗❤],
   generated: ["{greetings}, {nicknames}!"],
 };
 
