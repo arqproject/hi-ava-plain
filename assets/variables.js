@@ -7,7 +7,7 @@ const variables = {
     night: "Good Night",
   },
   quotes: [
-    { quote: "Tepat hari ini, Hari dimana kamu dilahirkan, hari yang spesial untukmu dikala usiamu semakin menumbuh. Selamat Ulang Tahun Buat PuPuttt😻🤗", author: "ariqoh" },
+    { quote: "Tepat hari ini, Hari dimana kamu dilahirkan, hari yang spesial untukmu dikala usiamu semakin menumbuh. Selamat Ulang Tahun Buat PuPuttt🥰🤗", author: "ariqoh" },
     { quote: "Ariqq minta maaf yaa putt, ngga bisa ngasih kamu kado:*", author: "ariqoh" },
     { quote: "Puputt sehat selalu yaaa jaga diri baik²", author: "ariqoh" },
     { quote: "Dihari ulang tahunnya puputt kali ini, semoga puput bisaa jdi jodohku xixixi", author: "ariqoh" },
